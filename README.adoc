@@ -1,0 +1,22 @@
+= Number Sum Project
+
+== Description
+A simple Python program that asks the user to enter numbers, adds them together, and stops when the user types Stop.
+
+== Requirements
+Python 3,
+
+== How to Run
+[source,shell]
+----
+python firstcodingexercise.py
+----
+
+== Example
+[source,console]
+----
+Enter number or Stop : 5
+Enter number or Stop : 7
+Enter number or Stop : Stop
+12
+----
